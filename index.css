@@ -1,0 +1,35 @@
+.first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #a9c4ff;
+  border-radius: 20px;
+  margin: 50px;
+}
+.second{
+  display: inline-block;
+  background: white;
+  margin: 50px;
+  height: 350px;
+  width: 220px;
+  border-radius: 15px;
+}
+img{
+  display: block;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+h1{
+  text-align: center;
+  font-size: 17px;
+  margin: 15px;
+}
+p{
+  text-align: center;
+  opacity: 0.7;
+  font-size: 15px;
+  margin: 12px;
+}
